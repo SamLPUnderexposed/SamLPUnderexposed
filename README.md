@@ -1,5 +1,4 @@
-![](https://raw.githubusercontent.com/SamLPUnderexposed/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![]()
+<img src="https://github.com/SamLPUnderexposed/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 
 <!--
 **SamLPUnderexposed/SamLPUnderexposed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
